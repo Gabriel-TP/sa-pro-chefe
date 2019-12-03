@@ -1,0 +1,668 @@
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\SA.dashboard.resources
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\SA.login.resources
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\3D Objects\sa backupzim\sa backupzim\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\Cadastro_Cliente.cadastroCliente.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.dashboard.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.cadastroProdutos.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\Delivery.delivery.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\WindowsFormsApp2.Mesas.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.login.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\Videos\TELAS - SA CHENTA\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.dashboard.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.cadastroProdutos.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.login.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.Entregador.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.Mesas.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.Delivery.resources
+C:\Users\hiago\3D Objects\Telas\Telas\SA\SA\obj\Debug\SA.CadastroCliente.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.CadastroCliente.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Dashboard.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.CadastroProdutos.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Delivery.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Entregador.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Login.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Mesas.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.Cadastro.resources
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Cadastro.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.CadastroCliente.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Dashboard.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.CadastroProdutos.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Delivery.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Entregador.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Login.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Mesas.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\3D Objects\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Cadastro.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.CadastroCliente.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Dashboard.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.CadastroProdutos.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Delivery.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Entregador.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Login.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Mesas.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.PedidosFRM.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\3D Objects\ESSA SA\SA (1) (2)\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\Aluno\3D Objects\SA (1)\Telas\SA\SA\obj\Debug\SA.PedidosFRM.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\Downloads\V3\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\3D Objects\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\V4\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\V4 - LOCK\sa_11_11\SA (1)\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\Aluno\3D Objects\V100\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\hiago\Desktop\V1001\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\gabri\Downloads\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\ESSE PROGRAMA_delivery\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\teste\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\v11\ESSE PROGRAMA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.Form1.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\v11\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaProdutoIngrediente.resources
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\3D Objects\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCalculadora.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCalculadora.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCalculadora.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Music\APRESENTAÇÃO SA (1)\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCalculadora.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\SA hiago - Certo\APRESENTAÇÃO SA\V1001\Telas\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaCalculadora.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.pdb
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\SA.exe.config
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\SA.exe
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\SA.pdb
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\Correios.Net.dll
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\EntityFramework.dll
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\Correios.Net.pdb
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\EntityFramework.xml
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiago\Desktop\madrinha\SA\SA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\login_dashboard.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.CadastroDelivery.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaCalculadora.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaCadastroUsuario.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaCadastroCliente.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaCategoriaProduto.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaDashboard.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaCadastroProdutos.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaDelivery.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaEntregador.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaFinanceiro.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaLogin.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaMesas.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.TelaPedidosFRM.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\login_dashboard.csproj.GenerateResource.cache
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\login_dashboard.csproj.CopyComplete
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.exe
+C:\Users\hiago\Desktop\madrinha\SA\SA\obj\Debug\SA.pdb

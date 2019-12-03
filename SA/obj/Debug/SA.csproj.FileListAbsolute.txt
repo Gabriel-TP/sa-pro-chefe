@@ -1,0 +1,11 @@
+C:\Users\Aluno\Pictures\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Aluno\Pictures\SA\SA\bin\Debug\SA.exe
+C:\Users\Aluno\Pictures\SA\SA\bin\Debug\SA.pdb
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.csprojAssemblyReference.cache
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.dashboard.resources
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.login.resources
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.Properties.Resources.resources
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.csproj.GenerateResource.cache
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.exe
+C:\Users\Aluno\Pictures\SA\SA\obj\Debug\SA.pdb
