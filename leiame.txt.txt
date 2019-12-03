@@ -1,2 +1,3 @@
 está é a primeira versão da SA do curso técnico de 
-desenvolvimento de sistemas
+desenvolvimento de sistemas. livre para uso não 
+comercial
